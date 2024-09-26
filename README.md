@@ -1,4 +1,4 @@
-# Golfvisor: A Capstone Project
+# Golfvisor
 
 Golfvisor is a dynamic platform for golfers, inspired by Tripadvisor but tailored to the golfing community! It allows users to discover and review golf courses, helping them make informed decisions before hitting the green. Made by an everyday golfer for golfers!
 
